@@ -1,1 +1,2 @@
 this is first line in file
+second line in file
